@@ -4,7 +4,7 @@
 
 Backend developer from Indonesia, focused on Go.
 
-I build REST APIs and event-driven systems — currently exploring DDD, Kafka streaming, and clean service architecture.
+I build REST APIs and event driven systems. Currently exploring DDD, Kafka streaming, clean service architecture and utilizing GitLab for my experiments.
 
 **Stack:** Go · Php · Java · Javascript · MySQL · Kafka · Docker
 
