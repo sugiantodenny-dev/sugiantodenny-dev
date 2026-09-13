@@ -4,11 +4,11 @@
 
 Backend developer from Indonesia, focused on Go.
 
-Backend engineer specializing for building production REST/gRPC services with Domain Driven Design, event driven architecture, and Kafka for scalable distributed systems. Currently exploring Rust and utilizing GitLab for my experiments.
+I specialize in building production REST and gRPC services with Go, applying Domain Driven Design and Kafka based event streaming to create scalable, reliable, and maintainable distributed systems
 
-**Stack:** Go · Php · Java · Javascript · MySQL · Kafka · Docker · REST/gRPC
+**Stack:** Go · Kafka · MySQL · Docker · REST/gRPC · Java · PHP · JavaScript
 
-**Currently:** learning Rust
+**Currently:** Exploring Rust and experimenting with backend architectures using GitLab
 
 📝 I write about backend design on [Medium](https://medium.com/@dennysugianto1)
 
