@@ -11,4 +11,5 @@ I build REST APIs and event-driven systems — currently exploring DDD, Kafka st
 **Currently:** learning Rust
 
 📝 I write about backend design on [Medium](https://medium.com/@dennysugianto1)
+
 📫 [dennysugianto1@gmail.com](mailto:dennysugianto1@gmail.com)
