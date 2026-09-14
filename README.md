@@ -10,6 +10,6 @@ I enjoy building backend services with Go using gRPC, REST, Kafka, and Domain-Dr
 
 **Currently exploring:** Rust and backend architecture experiments with GitLab.
 
-📝 I write about backend design on Medium
+📝 I write about backend design on [Medium](https://medium.com/@dennysugianto1)
 
-📫 dennysugianto1@gmail.com
+📫 Email : dennysugianto1@gmail.com
