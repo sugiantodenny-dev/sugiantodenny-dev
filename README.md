@@ -2,7 +2,7 @@
 
 <img width="1791" height="450" alt="dny" src="https://github.com/user-attachments/assets/1db1e325-b090-4721-a0b7-a149235ee63c" />
 
-Backend developer from Indonesia, building services with Go
+Software engineer from Indonesia, building services with Go
 
 I mainly work with Go, gRPC, REST, Kafka, and SQL databases. I enjoy designing backend systems that are scalable, reliable, and easy to maintain
 
