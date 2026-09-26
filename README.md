@@ -8,7 +8,7 @@ I mainly work with Go, gRPC, REST, Kafka, and SQL databases. I enjoy designing b
 
 **Tech Stack:** Go · Kafka · MySQL · PostgreSQL · Docker · REST/gRPC · Java · PHP · JavaScript
 
-**Currently exploring:** Rust and backend architecture and experiments with GitLab.
+**Currently exploring:** Rust and backend architecture and experiments with GitLab
 
 📝 I write about backend design on [Medium](https://medium.com/@dennysugianto1)
 
